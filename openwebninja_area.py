@@ -2,6 +2,7 @@ import csv
 import time
 import http.client
 import json
+import os
 
 
 
@@ -100,7 +101,7 @@ def search_business(conn, query, location="Shiraz", limit=20):
 
     headers = {
         'Content-Type': "application/json",
-        'x-api-key': "ak_klbxhdgy3ojicgeqnwanqyux87gjhhl4qtiez4l8y2f940z"
+        'x-api-key': os.getenv("API_KEY")
     }
 
     conn.request("POST", "/local-business-data/search", payload, headers)
