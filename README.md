@@ -3,10 +3,9 @@ Get bussiness information from Google Maps for you own Use
 
 
 
-If you want to get information of bussinesses from google map you must know that google APIs are not affordable. 
+If you want to get information of bussinesses from google map you must know that google APIs are not free, so one other choice could be openwebninja. 
 
-
-As a result, in this project we are going to get information we want by using openwebninja, www.openwebninja.com. 
+In this project we are going to get information we want by using openwebninja, www.openwebninja.com. 
 
 This framework offers a wide range of Plans. However, in this project we use its free plan by which we can get about 500 Businesses / Month. 
 
