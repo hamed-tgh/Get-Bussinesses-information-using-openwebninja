@@ -7,7 +7,10 @@ If you want to get information of bussinesses from google map you must know that
 
 In this project we are going to get information we want by using openwebninja, www.openwebninja.com. 
 
+In this repositort you can find bussunesess information uusing their name, location and specific area.
+
 This framework offers a wide range of Plans. However, in this project we use its free plan by which we can get about 500 Businesses / Month. 
+
 
 
 
